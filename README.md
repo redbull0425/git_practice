@@ -29,3 +29,5 @@ git push -u origin main
   
   
 :+1:
+
+:exclamation: [emoji list](https://gist.github.com/rxaviers/7360908)
