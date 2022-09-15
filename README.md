@@ -4,7 +4,7 @@
 git@github.com:redbull0425/git_practice.git  
   
 # https
-https://github.com/redbull0425/git_practice.git  
+[https://github.com/redbull0425/git_practice.git](https://github.com/redbull0425/git_practice)  
   
 ***  
 ## SETUP EXAMPLE
