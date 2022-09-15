@@ -11,22 +11,23 @@ $ touch .gitignore
 ---
 然後編輯這個檔案的內容：  
   
-# 檔案名稱 .gitignore  
-  
-# 忽略 secret.yml 檔案  
-secret.yml  
-  
-# 忽略 config 目錄下的 database.yml 檔案  
-config/database.yml  
-  
-# 忽略所有 db 目錄下附檔名是 .sqlite3 的檔案  
-/db/*.sqlite3  
-  
-# 忽略所有附檔名是 .tmp 的檔案  
-*.tmp  
-  
-# 當然你要忽略自己也可以，只是通常不會這麼做  
-# .gitignore  
+    # 檔案名稱 .gitignore  
+    
+    # 忽略 secret.yml 檔案  
+    secret.yml  
+    
+    # 忽略 config 目錄下的 database.yml 檔案  
+    config/database.yml  
+    
+    # 忽略所有 db 目錄下附檔名是 .sqlite3 的檔案  
+    /db/*.sqlite3  
+    
+    # 忽略所有附檔名是 .tmp 的檔案  
+    *.tmp  
+    
+    # 當然你要忽略自己也可以，只是通常不會這麼做  
+    # .gitignore  
+    
 只要 .gitignore 這個檔案存在，即使這個檔案沒被 Commit 或是沒被 Push 上 Git Server 就會有效果。  
 但這個檔案會建議 Commit 進專案並且推上 Git Server，這樣一來整個專案一起開發的人可以共享相同的設定。  
   
