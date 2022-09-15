@@ -7,8 +7,7 @@ git@github.com:redbull0425/git_practice.git
 https://github.com/redbull0425/git_practice.git  
   
 ***  
-## EXAMPLE
-# [more]  
+## SETUP EXAMPLE
 * …or create a new repository on the command line
   
 echo "# git_practice" >> README.md  
@@ -20,7 +19,6 @@ git remote add origin https://github.com/redbull0425/git_practice.git
 git push -u origin main  
   
 ***
-# [more]  
 * …or push an existing repository from the command line
   
 git remote add origin https://github.com/redbull0425/git_practice.git  
