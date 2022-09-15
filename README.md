@@ -7,7 +7,7 @@
 [https://github.com/redbull0425/git_practice.git](https://github.com/redbull0425/git_practice)  
   
   
-
+:satisfied: :+1:
 ### SETUP EXAMPLE (SSH) ###
 ***  
 * …or create a new repository on the command line
