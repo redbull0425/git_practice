@@ -1,5 +1,10 @@
+:bookmark_tabs:
+---
 git help
-
-git congig help
-
+---
+git help config 
+---
 git status
+---
+git log
+---
