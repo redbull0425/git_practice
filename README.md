@@ -1,4 +1,4 @@
-# git_practice #
+# :octocat: git_practice #
 
 ## ssh ##
 [git@github.com:redbull0425/git_practice.git](https://github.com/redbull0425/git_practice)
