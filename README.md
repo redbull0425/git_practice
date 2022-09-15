@@ -1,7 +1,7 @@
 # git_practice
 
 # ssh
-git@github.com:redbull0425/git_practice.git  
+[git@github.com:redbull0425/git_practice.git](https://github.com/redbull0425/git_practice)
   
 # https
 [https://github.com/redbull0425/git_practice.git](https://github.com/redbull0425/git_practice)  
@@ -15,7 +15,7 @@ git init
 git add README.md  
 git commit -m "first commit"  
 git branch -M main  
-git remote add origin https://github.com/redbull0425/git_practice.git  
+git remote add origin git@github.com:redbull0425/git_practice.git  
 git push -u origin main  
   
 ***
