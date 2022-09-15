@@ -7,7 +7,7 @@
 並且設定想要忽略的規則就行了。如果這個檔案不存在，就手動新增它：  
   
 # command  
-$ touch .gitignore  
+    $ touch .gitignore  
 ---
 然後編輯這個檔案的內容：  
   
