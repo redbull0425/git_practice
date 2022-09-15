@@ -1,13 +1,13 @@
 # git_practice
 
-# ssh
+## ssh
 [git@github.com:redbull0425/git_practice.git](https://github.com/redbull0425/git_practice)
   
-# https
+## https
 [https://github.com/redbull0425/git_practice.git](https://github.com/redbull0425/git_practice)  
   
 ***  
-## SETUP EXAMPLE (SSH)
+### SETUP EXAMPLE (SSH)
 * …or create a new repository on the command line
   
 echo "# git_practice" >> README.md  
